@@ -1,0 +1,34 @@
+/* Make the image at the top of the page smaller */
+img {
+    height: 150px;
+}
+
+/* Increase the font size of the recipe description */
+.description {
+    font-size: 20px;
+}
+
+/* Bold the cooking time */
+#cook-time {
+    font-weight: bold;
+}
+
+/* Change the bullet points of the ingredient list to squares */
+.ingredients li {
+    list-style: square;
+}
+
+/* Make the preparation time appear gray */
+p.time {
+    color: gray;
+}
+
+/* Change the color of the external link */
+.external-link {
+    color: SeaGreen;
+}
+
+/* Change the font to Helvetica for all text */
+h1, h2, p, li {
+    font-family: Helvetica;
+}
